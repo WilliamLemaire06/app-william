@@ -1,0 +1,7 @@
+<?php
+return [
+    'db_host' => 'localhost',
+    'db_name' => 'app_william_db',
+    'db_user' => 'william_user',
+    'db_pass' => 'CHANGER_MOI',
+];
